@@ -1,2 +1,2 @@
-current = "Greet"
-puts "This is how you #{current} people."
+greeting = "Hello World"
+puts "This is how you say #{greeting} to people."
